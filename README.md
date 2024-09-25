@@ -14,7 +14,7 @@ Email Scraper is a Node.js tool designed for efficient and responsible email ext
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/<your-username>/email-scraper.git
+    git clone https://github.com/slimbob413/email-scraper.git
     cd email-scraper
     ```
 
